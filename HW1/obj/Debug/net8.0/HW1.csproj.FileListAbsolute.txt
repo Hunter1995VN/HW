@@ -1,0 +1,14 @@
+D:\VSCODE\HW1\HW1\bin\Debug\net8.0\HW1.exe
+D:\VSCODE\HW1\HW1\bin\Debug\net8.0\HW1.deps.json
+D:\VSCODE\HW1\HW1\bin\Debug\net8.0\HW1.runtimeconfig.json
+D:\VSCODE\HW1\HW1\bin\Debug\net8.0\HW1.dll
+D:\VSCODE\HW1\HW1\bin\Debug\net8.0\HW1.pdb
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfoInputs.cache
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.AssemblyInfo.cs
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.csproj.CoreCompileInputs.cache
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.dll
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\refint\HW1.dll
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.pdb
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\HW1.genruntimeconfig.cache
+D:\VSCODE\HW1\HW1\obj\Debug\net8.0\ref\HW1.dll
