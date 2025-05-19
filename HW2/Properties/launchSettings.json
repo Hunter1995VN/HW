@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HW2": {
+      "commandName": "Project",
+      "commandLineArgs": "myfile.txt"
+    }
+  }
+}
